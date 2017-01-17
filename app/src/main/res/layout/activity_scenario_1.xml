@@ -11,4 +11,11 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="ua.meugen.android.levelup.homework7.Scenario1Activity">
 
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@id/button"
+        android:text="@string/button_text"
+        android:layout_centerInParent="true"/>
+
 </RelativeLayout>
