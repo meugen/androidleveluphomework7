@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Homework 7</string>
+
+    <string name="scenario_1_title">Scenario 1</string>
+    <string name="scenario_2_title">Scenario 2</string>
+    <string name="scenario_3_title">Scenario 3</string>
+    <string name="scenario_4_title">Scenario 4</string>
 </resources>
