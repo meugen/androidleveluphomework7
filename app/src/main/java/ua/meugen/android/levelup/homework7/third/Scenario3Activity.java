@@ -1,7 +1,9 @@
-package ua.meugen.android.levelup.homework7;
+package ua.meugen.android.levelup.homework7.third;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import ua.meugen.android.levelup.homework7.R;
 
 public class Scenario3Activity extends AppCompatActivity {
 

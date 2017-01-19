@@ -7,4 +7,7 @@
 
     <item name="root" type="id"/>
     <item name="button" type="id"/>
+    <item name="image" type="id"/>
+    <item name="text" type="id"/>
+    <item name="next" type="id"/>
 </resources>

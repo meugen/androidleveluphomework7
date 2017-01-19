@@ -9,7 +9,7 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="ua.meugen.android.levelup.homework7.Scenario1Activity">
+    tools:context="ua.meugen.android.levelup.homework7.first.Scenario1Activity">
 
     <Button
         android:layout_width="wrap_content"

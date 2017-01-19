@@ -5,6 +5,11 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 
+import ua.meugen.android.levelup.homework7.first.Scenario1Activity;
+import ua.meugen.android.levelup.homework7.fourth.Scenario4Activity;
+import ua.meugen.android.levelup.homework7.second.Scenario2Activity;
+import ua.meugen.android.levelup.homework7.third.Scenario3Activity;
+
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
 
     @Override

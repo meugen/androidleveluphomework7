@@ -1,4 +1,4 @@
-package ua.meugen.android.levelup.homework7;
+package ua.meugen.android.levelup.homework7.first;
 
 import android.animation.TimeInterpolator;
 import android.animation.ValueAnimator;
@@ -14,6 +14,8 @@ import android.widget.Button;
 import android.widget.RelativeLayout;
 
 import java.util.concurrent.TimeUnit;
+
+import ua.meugen.android.levelup.homework7.R;
 
 public class Scenario1Activity extends AppCompatActivity implements View.OnClickListener {
 

@@ -7,4 +7,8 @@
     <string name="scenario_4_title">Scenario 4</string>
 
     <string name="button_text">Click me!</string>
+    <string name="button_next">Next ></string>
+
+    <string name="transition_image_name">image</string>
+    <string name="transition_text_name">text</string>
 </resources>
