@@ -15,16 +15,24 @@
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
-        <activity android:name=".first.Scenario1Activity"
+        <activity
+            android:name=".first.Scenario1Activity"
             android:label="@string/scenario_1_title"
             android:parentActivityName=".MainActivity"/>
-        <activity android:name=".second.Scenario2Activity"
+        <activity
+            android:name=".second.Scenario2Activity"
             android:label="@string/scenario_2_title"
             android:parentActivityName=".MainActivity"/>
-        <activity android:name=".third.Scenario3Activity"
+        <activity
+            android:name=".third.Scenario3Activity"
             android:label="@string/scenario_3_title"
             android:parentActivityName=".MainActivity"/>
-        <activity android:name=".fourth.Scenario4Activity"
+        <activity
+            android:name=".third.Scenario3ActivityNext"
+            android:label="@string/scenario_3_title"
+            android:parentActivityName=".third.Scenario3Activity"/>
+        <activity
+            android:name=".fourth.Scenario4Activity"
             android:label="@string/scenario_4_title"
             android:parentActivityName=".MainActivity"/>
     </application>
