@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="100dp"
+    android:height="100dp"
+    android:viewportWidth="100.0"
+    android:viewportHeight="100.0">
+
+    <path android:pathData="M0,18L0,82zM18,100L82,68zM18,0L82,32z"
+          android:strokeColor="@android:color/black"
+          android:strokeWidth="2"
+        android:fillColor="@android:color/transparent"
+        android:name="@string/transition_vector_name"/>
+
+</vector>

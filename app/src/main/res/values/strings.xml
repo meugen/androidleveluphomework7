@@ -11,4 +11,5 @@
 
     <string name="transition_image_name">image</string>
     <string name="transition_text_name">text</string>
+    <string name="transition_vector_name">vector-path</string>
 </resources>
